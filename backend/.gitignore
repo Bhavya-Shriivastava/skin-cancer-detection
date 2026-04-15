@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual env
+venv/
+env/
+
+# Dataset
+dataset_binary/
+*.csv
+
+# Model (optional — choose one)
+cnn_scratch_binary.keras
+
+# OS files
+.DS_Store
+Thumbs.db
