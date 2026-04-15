@@ -86,7 +86,7 @@ skin-cancer-detection/
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/YOUR_USERNAME/skin-cancer-detection.git
+git clone https://github.com/Bhavya-Shriivastava/skin-cancer-detection.git
 cd skin-cancer-detection
 ```
 
